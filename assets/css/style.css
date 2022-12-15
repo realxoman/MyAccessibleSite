@@ -1,0 +1,14 @@
+html{
+    scroll-behavior: smooth;
+}
+div.container{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.d-flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
